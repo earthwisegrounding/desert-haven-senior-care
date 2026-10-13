@@ -56,7 +56,7 @@ form.addEventListener('submit', (e) => {
   }
 
   status.style.color = '';
-  status.textContent = "Thank you! We'll be in touch shortly. For urgent needs, call (623) 555-0123 anytime.";
+  status.textContent = "Thank you! We'll be in touch shortly. For urgent needs, call (623) 308-7671 anytime.";
   form.reset();
 });
 
